@@ -1,0 +1,2 @@
+# c-regression
+Regresyon analizi, iki ya da daha çok değişken arasındaki ilişkiyi ölçmek için kullanılan analiz metodudur. Eğer tek bir değişken kullanılarak analiz yapılıyorsa buna tek değişkenli regresyon, birden çok değişken kullanılıyorsa çok değişkenli regresyon analizi olarak isimlendirilir. Regresyon analizi ile değişkenler arasındaki ilişkinin varlığı, eğer ilişki var ise bunun gücü hakkında bilgi edilinebilinir.  Benim yaptığım işlem; 2 satırlı Matris ve istediğiniz kadar sutundan oluşan regresyon denlemini programla hesaplamaktır.
